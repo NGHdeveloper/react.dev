@@ -348,7 +348,7 @@ October 24-25, 2019 in Henderson, Nevada USA
 ### React Alicante 2019 {/*react-alicante-2019*/}
 September 26-28, 2019 in Alicante, Spain
 
-[Website](http://reactalicante.es/) - [Twitter](https://twitter.com/reactalicante) - [Facebook](https://www.facebook.com/ReactAlicante)
+[Website](https://reactalicante.es/) - [Twitter](https://twitter.com/reactalicante) - [Facebook](https://www.facebook.com/ReactAlicante)
 
 ### React India 2019 {/*react-india-2019*/}
 September 26-28, 2019 in Goa, India
